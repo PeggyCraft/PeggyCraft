@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript, Python and Web Design
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Python
-- 📫 Reach me at PCraft2244@gmail.com 
+- 📫 Reach me at +1 971 315 0697
 
 <!---
 PeggyCraft/PeggyCraft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
